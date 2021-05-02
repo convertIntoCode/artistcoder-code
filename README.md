@@ -9,6 +9,7 @@
 
 [<img align="left" alt="Marharyta Beznytska | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" href="https://www.instagram.com/artistcoder/" alt="artistcoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" href="https://twitter.com/MBeznytska" alt="MBeznytska | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 
 <br />
@@ -30,9 +31,10 @@
 
 [@artistcoder]: https://www.instagram.com/artistcoder/ 
 
-[LinkedIn]: https://www.linkedin.com/in/marharyta-beznytska-228390105/
+[LinkedIn]: https://www.linkedin.com/in/marharyta-beznytska/
 
 [instagram]: https://www.instagram.com/artistcoder/ 
 
+[Twitter]: https://twitter.com/MBeznytska
 
 
